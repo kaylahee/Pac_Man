@@ -1,0 +1,373 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.6f1 (338bb68529b2) revision 3378102'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1348; Version 2009; 64bit' Language: 'ko' Physical Memory: 16023 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.6f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/kayla/Pac - Man
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+50987
+Successfully changed project path to: C:/Users/kayla/Pac - Man
+C:/Users/kayla/Pac - Man
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 29.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.6f1 (338bb68529b2)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/kayla/Pac - Man/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   
+    VRAM:     8011 MB
+    Driver:   30.0.100.9864
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56192
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.6f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002860 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 29.98 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.944 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001136 seconds.
+Assembly with name 'Unity.2D.Tilemap.Extras.Placeholder.EditorTests' already exists (Packages/com.unity.2d.tilemap.extras/Tests/Editor/Unity.2D.Tilemap.Extras.EditorTests.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Placeholder.EditorTests' already exists (Assets/2d-extras-2020.3/Tests/Editor/Unity.2D.Tilemap.Extras.EditorTests.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Editor' already exists (Assets/2d-extras-2020.3/Editor/Unity.2D.Tilemap.Extras.Editor.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Editor' already exists (Packages/com.unity.2d.tilemap.extras/Editor/Unity.2D.Tilemap.Extras.Editor.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras' already exists (Assets/2d-extras-2020.3/Runtime/Unity.2D.Tilemap.Extras.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras' already exists (Packages/com.unity.2d.tilemap.extras/Runtime/Unity.2D.Tilemap.Extras.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Placeholder.EditorTests' already exists (Packages/com.unity.2d.tilemap.extras/Tests/Editor/Unity.2D.Tilemap.Extras.EditorTests.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Placeholder.EditorTests' already exists (Assets/2d-extras-2020.3/Tests/Editor/Unity.2D.Tilemap.Extras.EditorTests.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Editor' already exists (Assets/2d-extras-2020.3/Editor/Unity.2D.Tilemap.Extras.Editor.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Editor' already exists (Packages/com.unity.2d.tilemap.extras/Editor/Unity.2D.Tilemap.Extras.Editor.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras' already exists (Assets/2d-extras-2020.3/Runtime/Unity.2D.Tilemap.Extras.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras' already exists (Packages/com.unity.2d.tilemap.extras/Runtime/Unity.2D.Tilemap.Extras.asmdef)
+
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Assembly with name 'Unity.2D.Tilemap.Extras.Placeholder.EditorTests' already exists (Packages/com.unity.2d.tilemap.extras/Tests/Editor/Unity.2D.Tilemap.Extras.EditorTests.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Placeholder.EditorTests' already exists (Assets/2d-extras-2020.3/Tests/Editor/Unity.2D.Tilemap.Extras.EditorTests.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Editor' already exists (Assets/2d-extras-2020.3/Editor/Unity.2D.Tilemap.Extras.Editor.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Editor' already exists (Packages/com.unity.2d.tilemap.extras/Editor/Unity.2D.Tilemap.Extras.Editor.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras' already exists (Assets/2d-extras-2020.3/Runtime/Unity.2D.Tilemap.Extras.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras' already exists (Packages/com.unity.2d.tilemap.extras/Runtime/Unity.2D.Tilemap.Extras.asmdef)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.579 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1866 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 86.5 MB.
+System memory in use after: 86.6 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2298.
+Total: 1.632300 ms (FindLiveObjects: 0.134500 ms CreateObjectMapping: 0.032800 ms MarkObjects: 1.398400 ms  DeleteObjects: 0.065500 ms)
+
+========================================================================
+Received Import Request.
+  path: Packages/com.unity.2d.tilemap.extras/Runtime/Unity.2D.Tilemap.Extras.asmdef
+  artifactKey: Guid(613783dc1674e844b87788ea74ede0f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.tilemap.extras/Runtime/Unity.2D.Tilemap.Extras.asmdef using Guid(613783dc1674e844b87788ea74ede0f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a84448c66af11fcdfb53522fe89402e7') in 0.018810 seconds
+  Import took 0.021490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.279753 seconds.
+  path: Packages/com.unity.2d.tilemap.extras/package.json
+  artifactKey: Guid(a9f15b7c9363d9944a7d69248fd279ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.tilemap.extras/package.json using Guid(a9f15b7c9363d9944a7d69248fd279ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '077f784dcdf6daa9e58c48d5be6f78fb') in 0.009575 seconds
+  Import took 0.012254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.031456 seconds.
+  path: Packages/com.unity.2d.tilemap/package.json
+  artifactKey: Guid(51797d68d3132bb419217a229e09fc47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.2d.tilemap/package.json using Guid(51797d68d3132bb419217a229e09fc47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb798e5f8615f8901e7381329409406b') in 0.003578 seconds
+  Import took 0.006109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.313604 seconds.
+  path: Assets/Item_Coin.prefab
+  artifactKey: Guid(cd59be4c10f91d2439e090045d6e74f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Item_Coin.prefab using Guid(cd59be4c10f91d2439e090045d6e74f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2f755eb355e4dbb3832ddad1fdc6a3b') in 0.057758 seconds
+  Import took 0.060525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/StageTilePalette.prefab
+  artifactKey: Guid(7fdbbaa4fb1f6fa45895775301cba169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StageTilePalette.prefab using Guid(7fdbbaa4fb1f6fa45895775301cba169) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '089b5fdce66f99a0eff5d0bb6b1f24cc') in 0.004645 seconds
+  Import took 0.007051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/StageRuleTile.asset
+  artifactKey: Guid(d194b4cb9d59f084598310234f7cb7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StageRuleTile.asset using Guid(d194b4cb9d59f084598310234f7cb7da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a90cf399bd7cd42bd1995aabd13eb2') in 0.007182 seconds
+  Import took 0.010655 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001018 seconds.
+Assembly with name 'Unity.2D.Tilemap.Extras.Placeholder.EditorTests' already exists (Packages/com.unity.2d.tilemap.extras/Tests/Editor/Unity.2D.Tilemap.Extras.EditorTests.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Placeholder.EditorTests' already exists (Assets/2d-extras-2020.3/Tests/Editor/Unity.2D.Tilemap.Extras.EditorTests.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Editor' already exists (Assets/2d-extras-2020.3/Editor/Unity.2D.Tilemap.Extras.Editor.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Editor' already exists (Packages/com.unity.2d.tilemap.extras/Editor/Unity.2D.Tilemap.Extras.Editor.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras' already exists (Assets/2d-extras-2020.3/Runtime/Unity.2D.Tilemap.Extras.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras' already exists (Packages/com.unity.2d.tilemap.extras/Runtime/Unity.2D.Tilemap.Extras.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Placeholder.EditorTests' already exists (Packages/com.unity.2d.tilemap.extras/Tests/Editor/Unity.2D.Tilemap.Extras.EditorTests.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Placeholder.EditorTests' already exists (Assets/2d-extras-2020.3/Tests/Editor/Unity.2D.Tilemap.Extras.EditorTests.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Editor' already exists (Assets/2d-extras-2020.3/Editor/Unity.2D.Tilemap.Extras.Editor.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Editor' already exists (Packages/com.unity.2d.tilemap.extras/Editor/Unity.2D.Tilemap.Extras.Editor.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras' already exists (Assets/2d-extras-2020.3/Runtime/Unity.2D.Tilemap.Extras.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras' already exists (Packages/com.unity.2d.tilemap.extras/Runtime/Unity.2D.Tilemap.Extras.asmdef)
+
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 28.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Assembly with name 'Unity.2D.Tilemap.Extras.Placeholder.EditorTests' already exists (Packages/com.unity.2d.tilemap.extras/Tests/Editor/Unity.2D.Tilemap.Extras.EditorTests.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Placeholder.EditorTests' already exists (Assets/2d-extras-2020.3/Tests/Editor/Unity.2D.Tilemap.Extras.EditorTests.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Editor' already exists (Assets/2d-extras-2020.3/Editor/Unity.2D.Tilemap.Extras.Editor.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras.Editor' already exists (Packages/com.unity.2d.tilemap.extras/Editor/Unity.2D.Tilemap.Extras.Editor.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras' already exists (Assets/2d-extras-2020.3/Runtime/Unity.2D.Tilemap.Extras.asmdef)
+
+Assembly with name 'Unity.2D.Tilemap.Extras' already exists (Packages/com.unity.2d.tilemap.extras/Runtime/Unity.2D.Tilemap.Extras.asmdef)
+
+Mono: successfully reloaded assembly
+- Completed reload, in  0.702 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1818 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.9 MB.
+System memory in use after: 89.0 MB.
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2309.
+Total: 1.559700 ms (FindLiveObjects: 0.226600 ms CreateObjectMapping: 0.045300 ms MarkObjects: 1.249600 ms  DeleteObjects: 0.036800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 64.266422 seconds.
+  path: Assets/Testrures/Enemy.png
+  artifactKey: Guid(d6813c9512132a74fbc1e6f1d92f69fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Enemy.png using Guid(d6813c9512132a74fbc1e6f1d92f69fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ecab2f5285bc975fd21a9fe2d00d1d') in 0.045686 seconds
+  Import took 0.049217 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Testrures/Tile_03_02_threeside_leftrightbottom.png
+  artifactKey: Guid(c5ac64a3ec89b334abdc5832c4571030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_03_02_threeside_leftrightbottom.png using Guid(c5ac64a3ec89b334abdc5832c4571030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e9adf52a821929a7bd499a83be6d849') in 0.011455 seconds
+  Import took 0.013935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Testrures/Tile_01_03_oneside_top.png
+  artifactKey: Guid(cbe73c01aab670d449bc3c988ed77729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_01_03_oneside_top.png using Guid(cbe73c01aab670d449bc3c988ed77729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a2a1fa7117a061bfa752b02343331c') in 0.014130 seconds
+  Import took 0.017047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000350 seconds.
+  path: Assets/Testrures/Tile_02_03_twoside_lefttop.png
+  artifactKey: Guid(5ab18277d3812d548ad0d834ba8eef28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_02_03_twoside_lefttop.png using Guid(5ab18277d3812d548ad0d834ba8eef28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59b882d35a67aa41be9042ebab87fc45') in 0.010497 seconds
+  Import took 0.013155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000440 seconds.
+  path: Assets/Testrures/Tile_01_02_oneside_right.png
+  artifactKey: Guid(0ab492e97793c5443820e8e126e82fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_01_02_oneside_right.png using Guid(0ab492e97793c5443820e8e126e82fea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9efdf522e8dc5eb110646318e4c8ae7') in 0.011419 seconds
+  Import took 0.014208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000347 seconds.
+  path: Assets/Testrures/Tile_00_zeroside.png
+  artifactKey: Guid(b0e8c6d1f2398d245ba22ab76631c8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_00_zeroside.png using Guid(b0e8c6d1f2398d245ba22ab76631c8a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb4f31540331dc3be519bce4fb484a8e') in 0.010677 seconds
+  Import took 0.013665 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Testrures/Tile_03_03_threeside_lefttopbottom.png
+  artifactKey: Guid(8fdf5b0618b054946aacbc575fe40d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_03_03_threeside_lefttopbottom.png using Guid(8fdf5b0618b054946aacbc575fe40d62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21ad3c7ea897d8279f3d7363e52c4765') in 0.011817 seconds
+  Import took 0.014990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Testrures/Tile_03_04_threeside_righttopbottom.png
+  artifactKey: Guid(5c298b173b82e1044b39386fda5f8466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_03_04_threeside_righttopbottom.png using Guid(5c298b173b82e1044b39386fda5f8466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6b36b3c130deefc57c30f7e00838162') in 0.011095 seconds
+  Import took 0.013781 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Testrures/Tile_02_04_twoside_righttop.png
+  artifactKey: Guid(495812c245170424dbbe7e358402fc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_02_04_twoside_righttop.png using Guid(495812c245170424dbbe7e358402fc23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '601522c7d3b9f3bd53ba8993540d817b') in 0.010739 seconds
+  Import took 0.013801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/Testrures/Tile_03_01_threeside_leftrighttop.png
+  artifactKey: Guid(9ed146aafe7603f40a0939daba86e35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_03_01_threeside_leftrighttop.png using Guid(9ed146aafe7603f40a0939daba86e35a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02ed395244d85d995065a81c98470086') in 0.011236 seconds
+  Import took 0.013949 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Testrures/Item_Coin.png
+  artifactKey: Guid(8be09154219f6674a824a1952e82715c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Item_Coin.png using Guid(8be09154219f6674a824a1952e82715c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e13fdfebd75123917a44c188d32b061a') in 0.010377 seconds
+  Import took 0.013120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000292 seconds.
+  path: Assets/Testrures/Tile_02_02_twoside_topbottom.png
+  artifactKey: Guid(d45fc95bfc37c2a4abcdc821ae5bb500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_02_02_twoside_topbottom.png using Guid(d45fc95bfc37c2a4abcdc821ae5bb500) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f81f2cb2a7e4eb9c534e32abe2d1f9c') in 0.011246 seconds
+  Import took 0.013778 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Testrures/Tile_01_04_oneside_bottom.png
+  artifactKey: Guid(504840d60796a864183b6ba5137a9045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_01_04_oneside_bottom.png using Guid(504840d60796a864183b6ba5137a9045) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea762871510636e7ea9fa515cf01feef') in 0.011014 seconds
+  Import took 0.013891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Testrures/Tile_02_05_twoside_leftbottom.png
+  artifactKey: Guid(01f6d83fd2c204c49b1e7baa524689f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_02_05_twoside_leftbottom.png using Guid(01f6d83fd2c204c49b1e7baa524689f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '89d90f478379d2e74d3a6b53cc4ae9aa') in 0.011494 seconds
+  Import took 0.014372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/Testrures/Tile_01_01_oneside_left.png
+  artifactKey: Guid(d6e0bb5ae1662284ea4a894fd2cb3c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_01_01_oneside_left.png using Guid(d6e0bb5ae1662284ea4a894fd2cb3c9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29fddeaed9c4af1e635fde4b5781a9bf') in 0.011449 seconds
+  Import took 0.014216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Testrures/PACMAN.png
+  artifactKey: Guid(399510325a4409c4983942e106fc0521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/PACMAN.png using Guid(399510325a4409c4983942e106fc0521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '238b8b46334b9994ee075757d0211f2e') in 0.014717 seconds
+  Import took 0.017565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Testrures/Tile_02_06_twoside_rightbottom.png
+  artifactKey: Guid(95f7ee6b1fb315e498f391c15a9731af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_02_06_twoside_rightbottom.png using Guid(95f7ee6b1fb315e498f391c15a9731af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ba570a9375d5ad4003f6baf3558df69') in 0.011283 seconds
+  Import took 0.014136 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Testrures/PACMAN.png
+  artifactKey: Guid(399510325a4409c4983942e106fc0521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/PACMAN.png using Guid(399510325a4409c4983942e106fc0521) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '238b8b46334b9994ee075757d0211f2e') in 0.010646 seconds
+  Import took 0.013749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000355 seconds.
+  path: Assets/Testrures/Tile_02_01_twoside_leftright.png
+  artifactKey: Guid(931b62bae7091db46bc6c79d939fd2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_02_01_twoside_leftright.png using Guid(931b62bae7091db46bc6c79d939fd2cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1857419598651a91d0afa3b0ba9e71') in 0.012271 seconds
+  Import took 0.015068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Testrures/Tile_04_fourside.png
+  artifactKey: Guid(45ae7f2d7edb18d4eae7aa799bbaf4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Testrures/Tile_04_fourside.png using Guid(45ae7f2d7edb18d4eae7aa799bbaf4de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c10d4e5d4d1280abdff4e61321c952b0') in 0.010053 seconds
+  Import took 0.012913 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
